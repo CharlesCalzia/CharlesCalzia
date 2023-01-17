@@ -6,7 +6,3 @@ Feel free to contact me:
 - Email: contact@charlescalzia.com
 - Discord: Charles#8421
 - Through the [contact page on my website](https://charlescalzia.com/contact)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=CharlesCalzia&count_private=true&theme=merko&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesCalzia&theme=merko&include_all_commits=true)
