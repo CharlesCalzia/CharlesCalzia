@@ -7,5 +7,5 @@ Feel free to contact me:
 - Discord: Charles#8421
 - Through the [contact page on my website](https://charlescalzia.com/contact)
 
-[![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescalzia&count_private=true&show_icons=true&bg_color=10,159957,155799&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/CharlesCalzia/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescalzia&count_private=true&show_icons=true&bg_color=10,159957,155799&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CharlesCalzia/)
+[![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescalzia&count_private=true&bg_color=10,159957,155799&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CharlesCalzia/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescalzia&count_private=true&bg_color=10,159957,155799&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/CharlesCalzia/)
